@@ -1,4 +1,6 @@
 # Typed KeyboardJS
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/typed-keyboardjs.svg)](https://greenkeeper.io/)
 The type definition for [`KeyboardJS`](https://github.com/RobertWHurst/KeyboardJS).
 
 ## License
